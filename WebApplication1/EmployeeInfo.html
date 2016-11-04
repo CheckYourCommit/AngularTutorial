@@ -1,0 +1,35 @@
+<table>
+	<thead>
+		<tr>
+			<th ng-hide="hideIndex">
+				Index
+			</th>
+			<th ng-click="sortData('name')">
+				Name <div ng-class="getSortClass('name')"></div>
+			</th>
+			<th  ng-click="sortData('dob')">
+				DOB <div ng-class="getSortClass('dob')"></div>
+			</th>
+			<th  ng-click="sortData('gender')">
+				Gender <div ng-class="getSortClass('gender')"></div>
+			</th>
+			<th  ng-click="sortData('salary')">
+				Salary <div ng-class="getSortClass('salary')"></div>
+			</th>
+			<th  ng-click="sortData('city')">
+				City <div ng-class="getSortClass('city')"></div>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-repeat="employee in employees | orderBy:sortColumn:reverseSort | filter:search | limitTo:rowLimit">
+			<td ng-hide="hideIndex">{{$index}}</td>
+			<td>{{employee.name}}</td>
+			<td>{{employee.dob | date:dd/MM/yyyy}}</td>
+			<td>{{employee.gender | gender}}</td>
+			<td ng-show="showSalary">{{employee.salary | currency}}</td>
+			<td ng-hide="showSalary">#####</td>
+			<td>{{employee.city}}</td>
+		</tr>
+	</tbody>
+</table>

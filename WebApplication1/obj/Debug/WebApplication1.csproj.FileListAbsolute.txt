@@ -1,0 +1,65 @@
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+e:\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\ApplicationInsights.config
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\csc.exe
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\vbc.exe
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\WebApplication1.dll.config
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\WebApplication1.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\WebApplication1.pdb
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\Repos\Angular\AngularTutorial\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repos\Angular\AngularTutorial\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Repos\Angular\AngularTutorial\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Repos\Angular\AngularTutorial\WebApplication1\obj\Debug\WebApplication1.pdb

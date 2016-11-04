@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+<!-- Video 15 -->
+	<script src="Scripts/angular.min.js"></script>
+	<script src="Scripts/EmployeeApp.js"></script>
+	<script src="Scripts/Filters/genderFilter.js"></script>
+	<link href="CSS/styles.css" rel="stylesheet" />
+</head>
+<body>
+	<div ng-controller="myController">
+		<input type="number" step="1" min="1" max="5" ng-model="rowLimit" />
+		<input type="text" placeholder="Seach City and Name" ng-model="searchText">
+		<input type="checkbox" ng-model="showSalary"> Show Salary
+		<input type="checkbox" ng-model="hideIndex"> Hide Index
+		<br />
+		<br />
+		<div ng-include="'EmployeeInfo.html'"> </div>
+	</div>
+
+</body>
+</html>
